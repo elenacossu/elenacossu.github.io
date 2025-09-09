@@ -1,11 +1,11 @@
 ---
 title: Curriculum vitae
 description: "CV"
-date: 2023-12-12
-published-title: CV last updated
+#date: "`r format(Sys.time(), '%B, %Y')`"
+#published-title: CV last updated
 engine: knitr 
 cv:
-  pdf: "oharacv.pdf"
+  pdf: "cv.pdf"
 ---
 
 ```{css, echo=FALSE}

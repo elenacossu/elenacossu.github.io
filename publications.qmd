@@ -5,8 +5,11 @@ editor: visual
 
 ## Peer-Reviewed Publications
 
-Cossu, E. (2023a). Clustering and Analysing Relevant Policy Dimensions of Populist, Left-Wing, Centrist, and Right-Wing Parties across Europe. Central European Journal of Public Policy, 17(1), 41–54. https://doi.org/10.2478/cejpp-2023-0004
-[(GitHub Code)](https://github.com/ellcoss/PopulistParties)
+Cossu, Elena, and Caterina Froio. 2025. ‘How Terror Attacks Shape Political Agendas on Multiculturalism in France’. *Politics and Governance* 13(0). doi:[10.17645/pag.9743](https://doi.org/10.17645/pag.9743).
+
+Cossu, Elena. 2024. ‘Application of Natural Language Processing to the Electoral Manifestos of Parties Characterised by Populist Rhetoric in Central and Eastern Europe’. *Intersections. East European Journal of Society and Politics* 10(4): 6–33. doi:[10.17356/ieejsp.v10i4.1230](https://doi.org/10.17356/ieejsp.v10i4.1230).
+
+Cossu, E. (2023a). Clustering and Analysing Relevant Policy Dimensions of Populist, Left-Wing, Centrist, and Right-Wing Parties across Europe. Central European Journal of Public Policy, 17(1), 41–54. https://doi.org/10.2478/cejpp-2023-0004 [(GitHub Code)](https://github.com/ellcoss/PopulistParties)
 
 Cossu, E. (2023b). The Economic Effect Of Populist Rhetoric In Hungary. Online Journal of Modelling the New Europe, 41, 105–138. https://doi.org/10.24193/OJMNE.2023.41.05
 
@@ -14,25 +17,33 @@ Cossu, E. (2021). Understanding Contemporary Populism Through the Latin American
 
 Borges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz-gazdaság, 14(3), Article 3. https://doi.org/10.14267/RETP2019.03.25
 
+## In Progress
 
-## Under Peer-Review
+Rovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy
 
-Cossu E. (2024). Application of Natural Language Processing to the Electoral Manifestos of Parties Characterised by Populist Rhetoric in Central and Eastern Europe. East European Journal of Society and Politics. (Forthcoming)
+Cossu, E., Cointet, J., Froio, C., Lachat, R., & Rovny, J. Conceptualizing Illiberalism Using Natural Language Processing
 
+Cossu, E., & Mishra, S. Extremely Large and Efficient Neural Architecture for Political Polarization Prediction
 
-## Works in Progress
+Cossu, E. Mapping the Content of Illiberal Speech in Europe
 
-Measuring Negative Mentions of Multiculturalism in France Using Text Data and Machine Learning
+Cossu, E., Tranos, E., Wolf, L., & Zhu, R. The dynamics of economic clusters in the UK using a novel, granular and bottom‑up industrial classification
 
-Measuring Illiberalism Using Text Data and Machine Learning
+Cossu, E., Tranos, E., Wolf, L., & Zhu, R. Clustering within buildings? The case of London
 
+Cossu, E., Tranos, E., Wolf, L., & Zhu, R. Building an Atlas of Economic Activities using open web data
 
 ## Reports
 
+Cossu, E., Cointet, J.-P., Froio, C., Lachat, R., & Rovny, J. (2023). Literature Review on How to Measure Illiberalism Using Text Data. SciencesPo. https://www.authlib.eu/literature-review-how-to-measure-illiberalism-using-text-data/
+
+Duysak, E., Thornton, I., Cossu, E., Martin, A., Martin, I., D’Arcy, Wishart, R., Philips, D., & Dimova, S. (2023). Yorkshire and Humber COVID-19 campaign pilot: Evaluation report (GOV-15058). UK Health Security Agency. https://assets.publishing.service.gov.uk/media/652fe1fc92895c000ddcb9c3/Yorkshire-and-Humber-COVID-19-campaign-pilot-evaluation-report.pdf
+
 Kerr, J., Morgan, MacNaboe, L., Cossu, E., Barton-Crosby, J., Fugard, A., & Sciarra, A. (2023). LNK Educate: Feasibility and pilot study. Youth Endowement Foundation. https://youthendowmentfund.org.uk/funding/evaluations/lnk-educate/
 
-
 ## Other Publications
+
+2024, [Populists in Europe: A Political Group with Its Distinct Policy Preferences?](https://www.authlib.eu/populists-in-europe-a-political-group-with-its-distinct-policy-preferences/), AuthLIB Blog
 
 2022, [A Small Country Trying To Go Big, A Big Union Trying Not To Go Small](https://www.internationalaffairs.org.au/australianoutlook/a-small-country-trying-to-go-big-a-big-union-trying-not-to-go-small/), Australian Institute of International Affairs
 

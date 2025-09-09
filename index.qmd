@@ -1,5 +1,5 @@
 ---
-title: "Elena Cossu"
+title: "Elena Cossu, PhD"
 image: profile.png
 about:
   id: hero-heading
@@ -23,13 +23,9 @@ about:
 
 
 ::: {#hero-heading}
-I am a researcher at [SciencesPo Paris](https://www.sciencespo.fr/centre-etudes-europeennes/en/researcher/elena-cossu.html) and for the Horizon [AuthLIB project](https://www.authlib.eu/consortium-members/). 
+Welcome! I am a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.
 
-I am also a Senior Policy Evaluation Researcher for the [National Centre for Social Research](https://natcen.ac.uk/people/elena-cossu) in the UK.
+My current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.
 
-My work is about applying data science techniques to political science and political economy. My current research is about using machine learning to classify illiberalism using text data.
-
-Previously I worked on using experiments and quasi-experiments to measure the effects of a vast range of policies across Europe.
-
-I am interested in using data to understand and help solve political problems.
+I'm always open to explire possible collaborations-let's connect! you can reach me at: [elena.cossu@sciencespo.fr](mailto:elena.cossu@sciencespo.fr).
 :::
