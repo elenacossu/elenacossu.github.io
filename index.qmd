@@ -1,6 +1,6 @@
 ---
 title: "Elena Cossu, PhD"
-image: profile.png
+image: profile.jpg
 about:
   id: hero-heading
   template: trestles
