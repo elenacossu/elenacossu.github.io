@@ -39,42 +39,35 @@
     "href": "publications.html#other-publications",
     "title": "Publications",
     "section": "Other Publications",
-    "text": "Other Publications\n2024, Populists in Europe: A Political Group with Its Distinct Policy Preferences?, AuthLIB Blog\n2022, A Small Country Trying To Go Big, A Big Union Trying Not To Go Small, Australian Institute of International Affairs\n2021, Chinese vaccine diplomacy in Latin America could change the international order, ECPR The Loop\n2020, Book Review: The Glass Half-Empty: Debunking the Myth of Progress in the Twenty-First Century by Rodrigo Aguilera, LSE Review of Books"
+    "text": "Other Publications\n2026, How Terror Attacks Pushed French Politics Closer to the Far Right, AuthLIB Blog\n2024, Populists in Europe: A Political Group with Its Distinct Policy Preferences?, AuthLIB Blog\n2022, A Small Country Trying To Go Big, A Big Union Trying Not To Go Small, Australian Institute of International Affairs\n2021, Chinese vaccine diplomacy in Latin America could change the international order, ECPR The Loop\n2020, Book Review: The Glass Half-Empty: Debunking the Myth of Progress in the Twenty-First Century by Rodrigo Aguilera, LSE Review of Books"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
+    "objectID": "projects/index 2.html",
+    "href": "projects/index 2.html",
     "title": "Projects",
     "section": "",
     "text": "A description of Project"
   },
   {
-    "objectID": "projects/index.html#project-i",
-    "href": "projects/index.html#project-i",
+    "objectID": "projects/index 2.html#project-i",
+    "href": "projects/index 2.html#project-i",
     "title": "Projects",
     "section": "",
     "text": "A description of Project"
   },
   {
-    "objectID": "projects/index.html#project-ii",
-    "href": "projects/index.html#project-ii",
+    "objectID": "projects/index 2.html#project-ii",
+    "href": "projects/index 2.html#project-ii",
     "title": "Projects",
     "section": "Project II",
     "text": "Project II\nA description of Project"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Selected Talks",
     "section": "",
-    "text": "Thank you for your interest in contacting me.\nI am available for new research collaboration and job opportunities.\nFor inquiries, please email elena.cossu (at) live.it.\nFor any inquiry related to SciencesPo or AuthLIB, please email elena.cossu (at) sciencespo.fr."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2022 S2\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2023 S2\nDemocracy in Europe Seminar, , SciencesPo Paris, 2023 S2\nPolicy Analysis and Assessment Methods Course, , SciencesPo Paris, 2024 S1"
+    "text": "2025, How Critical Events Shape Political Agendas on Multiculturalism in France, International Political Science Association (IPSA) Conference\n2025, The Social Bases of Democracy in Europe, European Political Science Association (EPSA) Conference\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Third Annual CIVICA Political Behaviour and Institutions Conference (PoBI)\n2025, Measuring Illiberalism Using Text Data and Machine Learning, ECPR Joint Sessions: Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Helsinki Conference on Emotions, Populism, and Polarisation (HEPP5)\n2024, Measuring Illiberalism Using Text Data and Machine Learning, MethodsNet Conference\n2022, Assessing the economic performance of a government characterised by populist rhetoric in Hungary: A synthetic control approach, ECPR General Conference\n2021, Macroeconomics and Politics in Hungary: How an Illiberal Government Characterised by Populist Rhetoric Deals With its Public Budget, The Doctoral Student Association of the University of Pécs Conference (PTE DOK)\n2021, Macroeconomics, Policies, and CEE: a Machine Learning Approach to Social Investment and Social Protection Policies, inGRID Workshop\n2020, A Review of Quasi-Experimental and Predictive Methodologies in Relation to Measuring Populism and its Outcomes, ASEEES 52nd Annual Convention\n2020, FATIGUE Project Workshop, Science is Wonderful! European Commission Outreach Event, 2019\nEconomic populism, fiscal policies and budget deficits: the sustainability implications for Central and Eastern Europe, WINIR Symposium 2019\n2019, Present and future populist policies in Europe: the Cases of Hungary and Bulgaria, RSA Winter Conference\n2019, The New Populist Policies Prescriptions, UACES 49th Annual Conference"
   },
   {
     "objectID": "research.html",
@@ -98,11 +91,39 @@
     "text": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary\nThis project aims at defining and measuring populism in terms of political and economic practices in Europe. In fact, even if populism is a fundamentally an anti-pluralist phenomenon, it manifests in Europe with specific nuances compared to other parts of the world. Governments characterised by populist rhetoric in Europe are often associated to illiberalism. In this sense, this works tries to look at (i) how we can conceptualise populism in relation to its more applied literature, (ii) how we can conceptualize its practices in Europe, and (iii) what are its economic consequences in a representative case such as the Hungarian one."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Selected Talks",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "2025, How Critical Events Shape Political Agendas on Multiculturalism in France, International Political Science Association (IPSA) Conference\n2025, The Social Bases of Democracy in Europe, European Political Science Association (EPSA) Conference\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Third Annual CIVICA Political Behaviour and Institutions Conference (PoBI)\n2025, Measuring Illiberalism Using Text Data and Machine Learning, ECPR Joint Sessions: Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Helsinki Conference on Emotions, Populism, and Polarisation (HEPP5)\n2024, Measuring Illiberalism Using Text Data and Machine Learning, MethodsNet Conference\n2022, Assessing the economic performance of a government characterised by populist rhetoric in Hungary: A synthetic control approach, ECPR General Conference\n2021, Macroeconomics and Politics in Hungary: How an Illiberal Government Characterised by Populist Rhetoric Deals With its Public Budget, The Doctoral Student Association of the University of Pécs Conference (PTE DOK)\n2021, Macroeconomics, Policies, and CEE: a Machine Learning Approach to Social Investment and Social Protection Policies, inGRID Workshop\n2020, A Review of Quasi-Experimental and Predictive Methodologies in Relation to Measuring Populism and its Outcomes, ASEEES 52nd Annual Convention\n2020, FATIGUE Project Workshop, Science is Wonderful! European Commission Outreach Event, 2019\nEconomic populism, fiscal policies and budget deficits: the sustainability implications for Central and Eastern Europe, WINIR Symposium 2019\n2019, Present and future populist policies in Europe: the Cases of Hungary and Bulgaria, RSA Winter Conference\n2019, The New Populist Policies Prescriptions, UACES 49th Annual Conference"
+    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2022 S2\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2023 S2\nDemocracy in Europe Seminar, , SciencesPo Paris, 2023 S2\nPolicy Analysis and Assessment Methods Course, , SciencesPo Paris, 2024 S1"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for your interest in contacting me.\nI am available for new research collaboration and job opportunities.\nFor inquiries, please email elena.cossu (at) live.it.\nFor any inquiry related to SciencesPo or AuthLIB, please email elena.cossu (at) sciencespo.fr."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A description of Project"
+  },
+  {
+    "objectID": "projects/index.html#project-i",
+    "href": "projects/index.html#project-i",
+    "title": "Projects",
+    "section": "",
+    "text": "A description of Project"
+  },
+  {
+    "objectID": "projects/index.html#project-ii",
+    "href": "projects/index.html#project-ii",
+    "title": "Projects",
+    "section": "Project II",
+    "text": "Project II\nA description of Project"
   },
   {
     "objectID": "index.html",
