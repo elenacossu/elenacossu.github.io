@@ -21,19 +21,15 @@ Borges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz
 
 Rovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy
 
-Cossu, E., Cointet, J., Froio, C., Lachat, R., & Rovny, J. Conceptualizing Illiberalism Using Natural Language Processing
-
-Cossu, E., & Mishra, S. Extremely Large and Efficient Neural Architecture for Political Polarization Prediction
-
 Cossu, E. Mapping the Content of Illiberal Speech in Europe
 
-Cossu, E., Tranos, E., Wolf, L., & Zhu, R. The dynamics of economic clusters in the UK using a novel, granular and bottom‑up industrial classification
+Froio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication
 
-Cossu, E., Tranos, E., Wolf, L., & Zhu, R. Clustering within buildings? The case of London
 
-Cossu, E., Tranos, E., Wolf, L., & Zhu, R. Building an Atlas of Economic Activities using open web data
 
 ## Reports
+
+Froio, C., Cossu, E., Lachat, R., Rovny, J.. 2026. “Illiberal Trajectories in Elite and Mass Politics in France.” AUTHLIB Country Papers 5. https://doi.org/10.60644/vphn-5z08
 
 Cossu, E., Cointet, J.-P., Froio, C., Lachat, R., & Rovny, J. (2023). Literature Review on How to Measure Illiberalism Using Text Data. SciencesPo. https://www.authlib.eu/literature-review-how-to-measure-illiberalism-using-text-data/
 
