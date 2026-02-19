@@ -1,0 +1,70 @@
+---
+title: "Privacy Notice"
+editor: visual
+---
+
+*Research Project: "Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-Right Party Communication in Europe"*
+
+*Last updated: February 2026*
+
+---
+
+## Data Controller
+
+Elena Cossu, Max Weber Fellow, Robert Schuman Centre for Advanced Studies, European University Institute (EUI), Via delle Fontanelle 19, 50014 San Domenico di Fiesole (FI), Italy.
+
+Contact: [elena.cossu@eui.eu](mailto:elena.cossu@eui.eu)
+
+---
+
+## Purpose and Legal Basis of Processing
+
+This research project analyses publicly available social media communications (Twitter/X posts) of political parties and political figures across seven European countries (Austria, Czechia, France, Hungary, Italy, Poland, United Kingdom), covering the period 2006–2023. The purpose is to study patterns of illiberal and far-right political communication using computational methods.
+
+The legal basis for processing is **Article 6(1)(e) GDPR** — processing in the public interest and for scientific research purposes — in accordance with EUI Data Protection Policy (President's Decision No. 10/2019) and Recital 157 GDPR on scientific research.
+
+---
+
+## Categories of Data Processed
+
+Publicly available posts from official accounts of political parties and their leaders and representatives while in official capacity. No private communications, direct messages, or data from non-public accounts have been collected.
+
+---
+
+## Data Subjects
+
+- Political parties as organizations
+- Elected officials and party leaders acting in their official public capacity
+- Any other individuals identifiable through the content of analysed posts
+
+---
+
+## Notification and Exemption
+
+Given the large number of data subjects across seven countries, individual notification is not feasible without compromising the scientific integrity of the research. This notice therefore fulfils the transparency obligation under **Art. 14 GDPR** by means of public disclosure, invoking the exemption provided by **Art. 14(5)(b) GDPR** (disproportionate effort), consistent with Recital 157 GDPR on scientific research.
+
+---
+
+## Data Storage and Security
+
+Data is stored on EUI secure server infrastructure and Sciences Po Paris institutional platforms with EU data residency. Access is restricted to project team members. All files containing identifiable information are encrypted and password-protected. No data is shared via unsecured channels.
+
+---
+
+## Retention Period
+
+Raw data will be retained for the duration of the project and for a maximum of five years following its conclusion, in line with standard academic data retention practices.
+
+---
+
+## Your Rights
+
+As a data subject you have the right to:
+
+- **(a)** verify what data is processed about you;
+- **(b)** request rectification of factually incorrect data;
+- **(c)** request removal of your data if your account has subsequently been made private.
+
+Requests can be submitted to [elena.cossu@eui.eu](mailto:elena.cossu@eui.eu). You will receive a response within 30 working days.
+
+You may also address remarks to the EUI Data Protection Officer at: [Data_Protection_Officer@EUI.eu](mailto:Data_Protection_Officer@EUI.eu)

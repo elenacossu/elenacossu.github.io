@@ -25,7 +25,7 @@
     "href": "publications.html#in-progress",
     "title": "Publications",
     "section": "In Progress",
-    "text": "In Progress\nRovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy\nCossu, E. Mapping the Content of Illiberal Speech in Europe\nFroio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication"
+    "text": "In Progress\nRovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy\nCossu, E. Mapping the Content of Illiberal Speech in Europe\nFroio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication — Privacy Notice"
   },
   {
     "objectID": "publications.html#reports",
@@ -70,6 +70,76 @@
     "text": "2025, How Critical Events Shape Political Agendas on Multiculturalism in France, International Political Science Association (IPSA) Conference\n2025, The Social Bases of Democracy in Europe, European Political Science Association (EPSA) Conference\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Third Annual CIVICA Political Behaviour and Institutions Conference (PoBI)\n2025, Measuring Illiberalism Using Text Data and Machine Learning, ECPR Joint Sessions: Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Helsinki Conference on Emotions, Populism, and Polarisation (HEPP5)\n2024, Measuring Illiberalism Using Text Data and Machine Learning, MethodsNet Conference\n2022, Assessing the economic performance of a government characterised by populist rhetoric in Hungary: A synthetic control approach, ECPR General Conference\n2021, Macroeconomics and Politics in Hungary: How an Illiberal Government Characterised by Populist Rhetoric Deals With its Public Budget, The Doctoral Student Association of the University of Pécs Conference (PTE DOK)\n2021, Macroeconomics, Policies, and CEE: a Machine Learning Approach to Social Investment and Social Protection Policies, inGRID Workshop\n2020, A Review of Quasi-Experimental and Predictive Methodologies in Relation to Measuring Populism and its Outcomes, ASEEES 52nd Annual Convention\n2020, FATIGUE Project Workshop, Science is Wonderful! European Commission Outreach Event, 2019\nEconomic populism, fiscal policies and budget deficits: the sustainability implications for Central and Eastern Europe, WINIR Symposium 2019\n2019, Present and future populist policies in Europe: the Cases of Hungary and Bulgaria, RSA Winter Conference\n2019, The New Populist Policies Prescriptions, UACES 49th Annual Conference"
   },
   {
+    "objectID": "privacy_notice.html",
+    "href": "privacy_notice.html",
+    "title": "Privacy Notice",
+    "section": "",
+    "text": "Research Project: “Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-Right Party Communication in Europe”\nLast updated: February 2026"
+  },
+  {
+    "objectID": "privacy_notice.html#data-controller",
+    "href": "privacy_notice.html#data-controller",
+    "title": "Privacy Notice",
+    "section": "Data Controller",
+    "text": "Data Controller\nElena Cossu, Max Weber Fellow, Robert Schuman Centre for Advanced Studies, European University Institute (EUI), Via delle Fontanelle 19, 50014 San Domenico di Fiesole (FI), Italy.\nContact: elena.cossu@eui.eu"
+  },
+  {
+    "objectID": "privacy_notice.html#purpose-and-legal-basis-of-processing",
+    "href": "privacy_notice.html#purpose-and-legal-basis-of-processing",
+    "title": "Privacy Notice",
+    "section": "Purpose and Legal Basis of Processing",
+    "text": "Purpose and Legal Basis of Processing\nThis research project analyses publicly available social media communications (Twitter/X posts) of political parties and political figures across seven European countries (Austria, Czechia, France, Hungary, Italy, Poland, United Kingdom), covering the period 2006–2023. The purpose is to study patterns of illiberal and far-right political communication using computational methods.\nThe legal basis for processing is Article 6(1)(e) GDPR — processing in the public interest and for scientific research purposes — in accordance with EUI Data Protection Policy (President’s Decision No. 10/2019) and Recital 157 GDPR on scientific research."
+  },
+  {
+    "objectID": "privacy_notice.html#categories-of-data-processed",
+    "href": "privacy_notice.html#categories-of-data-processed",
+    "title": "Privacy Notice",
+    "section": "Categories of Data Processed",
+    "text": "Categories of Data Processed\nPublicly available posts from official accounts of political parties and their leaders and representatives while in official capacity. No private communications, direct messages, or data from non-public accounts have been collected."
+  },
+  {
+    "objectID": "privacy_notice.html#data-subjects",
+    "href": "privacy_notice.html#data-subjects",
+    "title": "Privacy Notice",
+    "section": "Data Subjects",
+    "text": "Data Subjects\n\nPolitical parties as organizations\nElected officials and party leaders acting in their official public capacity\nAny other individuals identifiable through the content of analysed posts"
+  },
+  {
+    "objectID": "privacy_notice.html#notification-and-exemption",
+    "href": "privacy_notice.html#notification-and-exemption",
+    "title": "Privacy Notice",
+    "section": "Notification and Exemption",
+    "text": "Notification and Exemption\nGiven the large number of data subjects across seven countries, individual notification is not feasible without compromising the scientific integrity of the research. This notice therefore fulfils the transparency obligation under Art. 14 GDPR by means of public disclosure, invoking the exemption provided by Art. 14(5)(b) GDPR (disproportionate effort), consistent with Recital 157 GDPR on scientific research."
+  },
+  {
+    "objectID": "privacy_notice.html#data-storage-and-security",
+    "href": "privacy_notice.html#data-storage-and-security",
+    "title": "Privacy Notice",
+    "section": "Data Storage and Security",
+    "text": "Data Storage and Security\nData is stored on EUI secure server infrastructure and Sciences Po Paris institutional platforms with EU data residency. Access is restricted to project team members. All files containing identifiable information are encrypted and password-protected. No data is shared via unsecured channels."
+  },
+  {
+    "objectID": "privacy_notice.html#retention-period",
+    "href": "privacy_notice.html#retention-period",
+    "title": "Privacy Notice",
+    "section": "Retention Period",
+    "text": "Retention Period\nRaw data will be retained for the duration of the project and for a maximum of five years following its conclusion, in line with standard academic data retention practices."
+  },
+  {
+    "objectID": "privacy_notice.html#your-rights",
+    "href": "privacy_notice.html#your-rights",
+    "title": "Privacy Notice",
+    "section": "Your Rights",
+    "text": "Your Rights\nAs a data subject you have the right to:\n\n(a) verify what data is processed about you;\n(b) request rectification of factually incorrect data;\n(c) request removal of your data if your account has subsequently been made private.\n\nRequests can be submitted to elena.cossu@eui.eu. You will receive a response within 30 working days.\nYou may also address remarks to the EUI Data Protection Officer at: Data_Protection_Officer@EUI.eu"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2022 S2\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2023 S2\nDemocracy in Europe Seminar, , SciencesPo Paris, 2023 S2\nPolicy Analysis and Assessment Methods Course, , SciencesPo Paris, 2024 S1"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -89,13 +159,6 @@
     "title": "Research",
     "section": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary",
     "text": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary\nThis project aims at defining and measuring populism in terms of political and economic practices in Europe. In fact, even if populism is a fundamentally an anti-pluralist phenomenon, it manifests in Europe with specific nuances compared to other parts of the world. Governments characterised by populist rhetoric in Europe are often associated to illiberalism. In this sense, this works tries to look at (i) how we can conceptualise populism in relation to its more applied literature, (ii) how we can conceptualize its practices in Europe, and (iii) what are its economic consequences in a representative case such as the Hungarian one."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2022 S2\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2023 S2\nDemocracy in Europe Seminar, , SciencesPo Paris, 2023 S2\nPolicy Analysis and Assessment Methods Course, , SciencesPo Paris, 2024 S1"
   },
   {
     "objectID": "contact.html",
