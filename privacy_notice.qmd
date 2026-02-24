@@ -41,7 +41,7 @@ Publicly available posts from official accounts of political parties and their l
 
 ## Notification and Exemption
 
-Given the large number of data subjects across seven countries, individual notification is not feasible without compromising the scientific integrity of the research. This notice therefore fulfils the transparency obligation under **Art. 14 GDPR** by means of public disclosure, invoking the exemption provided by **Art. 14(5)(b) GDPR** (disproportionate effort), consistent with Recital 157 GDPR on scientific research.
+Given the large number of data subjects across seven countries, individual notification is not feasible without compromising the scientific integrity of the research. This notice therefore fulfils the transparency obligation under **EUI President Decision** by means of public disclosure, invoking the exemption provided by **Article 15(3) of EUI President Decision No. 10/2019** (disproportionate effort), consistent with Recital 157 GDPR on scientific research.
 
 ---
 
