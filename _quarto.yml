@@ -18,23 +18,8 @@ website:
       - href: index.qmd
         text: Home
         
-      - href: about.qmd
-        text: About
-        
       - href: publications.qmd
         text: Publications
-
-      - href: research.qmd
-        text: Research
-        
-      - href: talks.qmd
-        text: Talks
-        
-      - href: teaching.qmd
-        text: Teaching
-        
-      - href: contact.qmd
-        text: Contact
         
       - href: cv.qmd
         text: CV
