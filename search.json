@@ -7,6 +7,76 @@
     "text": "Download current CV"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elena Cossu, PhD",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n\n  \n  \nWelcome! I am a data scientist at the European Central Bank and a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.\nMy current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.\nI’m always open to explore possible collaborations — let’s connect! You can reach me at: elena.cossu@live.it."
+  },
+  {
+    "objectID": "privacy_notice.html",
+    "href": "privacy_notice.html",
+    "title": "Privacy Notice",
+    "section": "",
+    "text": "Research Project: “Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-Right Party Communication in Europe”\nLast updated: February 2026"
+  },
+  {
+    "objectID": "privacy_notice.html#data-controller",
+    "href": "privacy_notice.html#data-controller",
+    "title": "Privacy Notice",
+    "section": "Data Controller",
+    "text": "Data Controller\nElena Cossu, Max Weber Fellow, Robert Schuman Centre for Advanced Studies, European University Institute (EUI), Via delle Fontanelle 19, 50014 San Domenico di Fiesole (FI), Italy.\nContact: elena.cossu@eui.eu"
+  },
+  {
+    "objectID": "privacy_notice.html#purpose-and-legal-basis-of-processing",
+    "href": "privacy_notice.html#purpose-and-legal-basis-of-processing",
+    "title": "Privacy Notice",
+    "section": "Purpose and Legal Basis of Processing",
+    "text": "Purpose and Legal Basis of Processing\nThis research project analyses publicly available social media communications (Twitter/X posts) of political parties and political figures across seven European countries (Austria, Czechia, France, Hungary, Italy, Poland, United Kingdom), covering the period 2006–2023. The purpose is to study patterns of illiberal and far-right political communication using computational methods.\nThe legal basis for processing is Article 6(1)(e) GDPR — processing in the public interest and for scientific research purposes — in accordance with EUI Data Protection Policy (President’s Decision No. 10/2019) and Recital 157 GDPR on scientific research."
+  },
+  {
+    "objectID": "privacy_notice.html#categories-of-data-processed",
+    "href": "privacy_notice.html#categories-of-data-processed",
+    "title": "Privacy Notice",
+    "section": "Categories of Data Processed",
+    "text": "Categories of Data Processed\nPublicly available posts from official accounts of political parties and their leaders and representatives while in official capacity. No private communications, direct messages, or data from non-public accounts have been collected."
+  },
+  {
+    "objectID": "privacy_notice.html#data-subjects",
+    "href": "privacy_notice.html#data-subjects",
+    "title": "Privacy Notice",
+    "section": "Data Subjects",
+    "text": "Data Subjects\n\nPolitical parties as organizations\nElected officials and party leaders acting in their official public capacity\nAny other individuals identifiable through the content of analysed posts"
+  },
+  {
+    "objectID": "privacy_notice.html#notification-and-exemption",
+    "href": "privacy_notice.html#notification-and-exemption",
+    "title": "Privacy Notice",
+    "section": "Notification and Exemption",
+    "text": "Notification and Exemption\nGiven the large number of data subjects across seven countries, individual notification is not feasible without compromising the scientific integrity of the research. This notice therefore fulfils the transparency obligation under EUI President Decision by means of public disclosure, invoking the exemption provided by Article 15(3) of EUI President Decision No. 10/2019 (disproportionate effort), consistent with Recital 157 GDPR on scientific research."
+  },
+  {
+    "objectID": "privacy_notice.html#data-storage-and-security",
+    "href": "privacy_notice.html#data-storage-and-security",
+    "title": "Privacy Notice",
+    "section": "Data Storage and Security",
+    "text": "Data Storage and Security\nData is stored on EUI secure server infrastructure and Sciences Po Paris institutional platforms with EU data residency. Access is restricted to project team members. All files containing identifiable information are encrypted and password-protected. No data is shared via unsecured channels."
+  },
+  {
+    "objectID": "privacy_notice.html#retention-period",
+    "href": "privacy_notice.html#retention-period",
+    "title": "Privacy Notice",
+    "section": "Retention Period",
+    "text": "Retention Period\nRaw data will be retained for the duration of the project and for a maximum of five years following its conclusion, in line with standard academic data retention practices."
+  },
+  {
+    "objectID": "privacy_notice.html#your-rights",
+    "href": "privacy_notice.html#your-rights",
+    "title": "Privacy Notice",
+    "section": "Your Rights",
+    "text": "Your Rights\nAs a data subject you have the right to:\n\n(a) verify what data is processed about you;\n(b) request rectification of factually incorrect data;\n(c) request removal of your data if your account has subsequently been made private.\n\nRequests can be submitted to elena.cossu@eui.eu. You will receive a response within 30 working days.\nYou may also address remarks to the EUI Data Protection Officer at: Data_Protection_Officer@EUI.eu"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -25,132 +95,20 @@
     "href": "publications.html#in-progress",
     "title": "Publications",
     "section": "In Progress",
-    "text": "In Progress\nRovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy\nCossu, E., Cointet, J., Froio, C., Lachat, R., & Rovny, J. Conceptualizing Illiberalism Using Natural Language Processing\nCossu, E., & Mishra, S. Extremely Large and Efficient Neural Architecture for Political Polarization Prediction\nCossu, E. Mapping the Content of Illiberal Speech in Europe\nCossu, E., Tranos, E., Wolf, L., & Zhu, R. The dynamics of economic clusters in the UK using a novel, granular and bottom‑up industrial classification\nCossu, E., Tranos, E., Wolf, L., & Zhu, R. Clustering within buildings? The case of London\nCossu, E., Tranos, E., Wolf, L., & Zhu, R. Building an Atlas of Economic Activities using open web data"
+    "text": "In Progress\nRovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy\nCossu, E. Mapping the Content of Illiberal Speech in Europe\nFroio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication — Privacy Notice"
   },
   {
     "objectID": "publications.html#reports",
     "href": "publications.html#reports",
     "title": "Publications",
     "section": "Reports",
-    "text": "Reports\nCossu, E., Cointet, J.-P., Froio, C., Lachat, R., & Rovny, J. (2023). Literature Review on How to Measure Illiberalism Using Text Data. SciencesPo. https://www.authlib.eu/literature-review-how-to-measure-illiberalism-using-text-data/\nDuysak, E., Thornton, I., Cossu, E., Martin, A., Martin, I., D’Arcy, Wishart, R., Philips, D., & Dimova, S. (2023). Yorkshire and Humber COVID-19 campaign pilot: Evaluation report (GOV-15058). UK Health Security Agency. https://assets.publishing.service.gov.uk/media/652fe1fc92895c000ddcb9c3/Yorkshire-and-Humber-COVID-19-campaign-pilot-evaluation-report.pdf\nKerr, J., Morgan, MacNaboe, L., Cossu, E., Barton-Crosby, J., Fugard, A., & Sciarra, A. (2023). LNK Educate: Feasibility and pilot study. Youth Endowement Foundation. https://youthendowmentfund.org.uk/funding/evaluations/lnk-educate/"
+    "text": "Reports\nFroio, C., Cossu, E., Lachat, R., Rovny, J.. 2026. “Illiberal Trajectories in Elite and Mass Politics in France.” AUTHLIB Country Papers 5. https://doi.org/10.60644/vphn-5z08\nCossu, E., Cointet, J.-P., Froio, C., Lachat, R., & Rovny, J. (2023). Literature Review on How to Measure Illiberalism Using Text Data. SciencesPo. https://www.authlib.eu/literature-review-how-to-measure-illiberalism-using-text-data/\nDuysak, E., Thornton, I., Cossu, E., Martin, A., Martin, I., D’Arcy, Wishart, R., Philips, D., & Dimova, S. (2023). Yorkshire and Humber COVID-19 campaign pilot: Evaluation report (GOV-15058). UK Health Security Agency. https://assets.publishing.service.gov.uk/media/652fe1fc92895c000ddcb9c3/Yorkshire-and-Humber-COVID-19-campaign-pilot-evaluation-report.pdf\nKerr, J., Morgan, MacNaboe, L., Cossu, E., Barton-Crosby, J., Fugard, A., & Sciarra, A. (2023). LNK Educate: Feasibility and pilot study. Youth Endowement Foundation. https://youthendowmentfund.org.uk/funding/evaluations/lnk-educate/"
   },
   {
     "objectID": "publications.html#other-publications",
     "href": "publications.html#other-publications",
     "title": "Publications",
     "section": "Other Publications",
-    "text": "Other Publications\n2024, Populists in Europe: A Political Group with Its Distinct Policy Preferences?, AuthLIB Blog\n2022, A Small Country Trying To Go Big, A Big Union Trying Not To Go Small, Australian Institute of International Affairs\n2021, Chinese vaccine diplomacy in Latin America could change the international order, ECPR The Loop\n2020, Book Review: The Glass Half-Empty: Debunking the Myth of Progress in the Twenty-First Century by Rodrigo Aguilera, LSE Review of Books"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A description of Project"
-  },
-  {
-    "objectID": "projects/index.html#project-i",
-    "href": "projects/index.html#project-i",
-    "title": "Projects",
-    "section": "",
-    "text": "A description of Project"
-  },
-  {
-    "objectID": "projects/index.html#project-ii",
-    "href": "projects/index.html#project-ii",
-    "title": "Projects",
-    "section": "Project II",
-    "text": "Project II\nA description of Project"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for your interest in contacting me.\nI am available for new research collaboration and job opportunities.\nFor inquiries, please email elena.cossu (at) live.it.\nFor any inquiry related to SciencesPo or AuthLIB, please email elena.cossu (at) sciencespo.fr."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Development Economics Seminar, Corvinus University of Budapest, 2018 S2\nGlobal Economic Trends Seminar, , Corvinus University of Budapest, 2021 S1\nInternational Organizations and Economic Diplomacy Seminar, , Corvinus University of Budapest, 2021 S1\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2022 S2\nImpact Evaluation Quasi-Experimental Design, , NatCen Course for the Office for National Statistics (ONS), 2023 S2\nDemocracy in Europe Seminar, , SciencesPo Paris, 2023 S2\nPolicy Analysis and Assessment Methods Course, , SciencesPo Paris, 2024 S1"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This project’s goal is to elaborate on how we can use a large corpus of text data together with machine learning to operationalise a multi-faceted and complex concept such as illiberalism. First, we elaborate on the different machine learning and Natural Language Processing methodologies available for such purpose. We present a review of methodologies that could be useful to conceptualise illiberalism using text data, and how we are planning to build a model using these methodologies. We then elaborate on potential sources of data and how to access them. We also report on how to link different resources and why manifestos, parliamentary speeches, and social media data are the best potential fit. Third, we elaborate on the conceptualisation of illiberalism and on the process we used to label the data. In the end we use a deep learning model to classify texts associated with illiberalism. We specifically will use a MdBERTa multilingual model trained on our whole corpus to classify texts characterised by illiberalism. We show the results of the model and we use the newly labelled text to build a ‘map of illiberalisms’. Our final goal is to understand the salient characteristics of texts containing illiberalism and to create a map that highlights the distinctive ideological features of illiberalism and neo-authoritarian values versus liberal democratic values. We do so by using Word Embeddings to place all the newly labelled texts on a relevant scale. This map built on our MdBERTa model gives us the options to explore new underlying dynamics and potential new associations of words and topics to illiberalism."
-  },
-  {
-    "objectID": "research.html#project-1---measuring-illiberalism-using-text-data-and-machine-learning",
-    "href": "research.html#project-1---measuring-illiberalism-using-text-data-and-machine-learning",
-    "title": "Research",
-    "section": "",
-    "text": "This project’s goal is to elaborate on how we can use a large corpus of text data together with machine learning to operationalise a multi-faceted and complex concept such as illiberalism. First, we elaborate on the different machine learning and Natural Language Processing methodologies available for such purpose. We present a review of methodologies that could be useful to conceptualise illiberalism using text data, and how we are planning to build a model using these methodologies. We then elaborate on potential sources of data and how to access them. We also report on how to link different resources and why manifestos, parliamentary speeches, and social media data are the best potential fit. Third, we elaborate on the conceptualisation of illiberalism and on the process we used to label the data. In the end we use a deep learning model to classify texts associated with illiberalism. We specifically will use a MdBERTa multilingual model trained on our whole corpus to classify texts characterised by illiberalism. We show the results of the model and we use the newly labelled text to build a ‘map of illiberalisms’. Our final goal is to understand the salient characteristics of texts containing illiberalism and to create a map that highlights the distinctive ideological features of illiberalism and neo-authoritarian values versus liberal democratic values. We do so by using Word Embeddings to place all the newly labelled texts on a relevant scale. This map built on our MdBERTa model gives us the options to explore new underlying dynamics and potential new associations of words and topics to illiberalism."
-  },
-  {
-    "objectID": "research.html#project-2---conceptualising-policies-linked-to-populist-rhetoric-in-europe-and-measuring-their-effects-in-hungary",
-    "href": "research.html#project-2---conceptualising-policies-linked-to-populist-rhetoric-in-europe-and-measuring-their-effects-in-hungary",
-    "title": "Research",
-    "section": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary",
-    "text": "Project 2 - Conceptualising Policies Linked to Populist Rhetoric in Europe and Measuring Their Effects in Hungary\nThis project aims at defining and measuring populism in terms of political and economic practices in Europe. In fact, even if populism is a fundamentally an anti-pluralist phenomenon, it manifests in Europe with specific nuances compared to other parts of the world. Governments characterised by populist rhetoric in Europe are often associated to illiberalism. In this sense, this works tries to look at (i) how we can conceptualise populism in relation to its more applied literature, (ii) how we can conceptualize its practices in Europe, and (iii) what are its economic consequences in a representative case such as the Hungarian one."
-  },
-  {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Selected Talks",
-    "section": "",
-    "text": "2025, How Critical Events Shape Political Agendas on Multiculturalism in France, International Political Science Association (IPSA) Conference\n2025, The Social Bases of Democracy in Europe, European Political Science Association (EPSA) Conference\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Third Annual CIVICA Political Behaviour and Institutions Conference (PoBI)\n2025, Measuring Illiberalism Using Text Data and Machine Learning, ECPR Joint Sessions: Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools\n2025, Measuring Illiberalism Using Text Data and Machine Learning, Helsinki Conference on Emotions, Populism, and Polarisation (HEPP5)\n2024, Measuring Illiberalism Using Text Data and Machine Learning, MethodsNet Conference\n2022, Assessing the economic performance of a government characterised by populist rhetoric in Hungary: A synthetic control approach, ECPR General Conference\n2021, Macroeconomics and Politics in Hungary: How an Illiberal Government Characterised by Populist Rhetoric Deals With its Public Budget, The Doctoral Student Association of the University of Pécs Conference (PTE DOK)\n2021, Macroeconomics, Policies, and CEE: a Machine Learning Approach to Social Investment and Social Protection Policies, inGRID Workshop\n2020, A Review of Quasi-Experimental and Predictive Methodologies in Relation to Measuring Populism and its Outcomes, ASEEES 52nd Annual Convention\n2020, FATIGUE Project Workshop, Science is Wonderful! European Commission Outreach Event, 2019\nEconomic populism, fiscal policies and budget deficits: the sustainability implications for Central and Eastern Europe, WINIR Symposium 2019\n2019, Present and future populist policies in Europe: the Cases of Hungary and Bulgaria, RSA Winter Conference\n2019, The New Populist Policies Prescriptions, UACES 49th Annual Conference"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Elena Cossu, PhD",
-    "section": "",
-    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n\n  \n  \nWelcome! I am a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.\nMy current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.\nI’m always open to explire possible collaborations-let’s connect! you can reach me at: elena.cossu@sciencespo.fr."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Max Weber Fellow, EUI\nPostdoctoral Researcher, SciencesPo Paris and AuthLIB project\nSenior Policy Evaluation Researcher, National Centre for Social Research (UK)\nAssistant Lecturer, Corvinus University\nEarly Stage Researcher, Horizon FATIGUE project\n\n\n\n\n\nCorvinus University and UCL (2023, Budapest and London) - PhD in Economics (thesis here)\nBocconi University and SciencesPo Paris (2017, Milan and Paris) - Dual MSc in International Economic Policy\nUniversità Cattolica del Sacro Cuore (Milan, 2014) - BA in Political Science and International Relations\n\n\n\n\nR/RStudio, Python, SQL, command-line programming, GitHub, STATA, SPSS, HTML, LaTeX, PowerBI.\n\n\n\nEnglish, French, Italian, Spanish, Hungarian (basic).\n\n\n\n\nMatching Methods (including Mahalanobis matching and Kernel matching)\nPropensity Score Weighting (PSW)\nSynthetic Control Method (SCM)\nCluster Analysis\nNatural Language Processing (NLP)\nBERT Modelling\nQuantitative Sentiment Analysis\nData Scraping Techniques\nImputation Techniques (K-means and regression analysis inputting)\nRandomized Control Trials (RCTs)\n\n\n \n    \n  \n    \n     Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About",
-    "section": "",
-    "text": "Max Weber Fellow, EUI\nPostdoctoral Researcher, SciencesPo Paris and AuthLIB project\nSenior Policy Evaluation Researcher, National Centre for Social Research (UK)\nAssistant Lecturer, Corvinus University\nEarly Stage Researcher, Horizon FATIGUE project"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "",
-    "text": "Corvinus University and UCL (2023, Budapest and London) - PhD in Economics (thesis here)\nBocconi University and SciencesPo Paris (2017, Milan and Paris) - Dual MSc in International Economic Policy\nUniversità Cattolica del Sacro Cuore (Milan, 2014) - BA in Political Science and International Relations"
-  },
-  {
-    "objectID": "about.html#analysis-languages-and-software",
-    "href": "about.html#analysis-languages-and-software",
-    "title": "About",
-    "section": "",
-    "text": "R/RStudio, Python, SQL, command-line programming, GitHub, STATA, SPSS, HTML, LaTeX, PowerBI."
-  },
-  {
-    "objectID": "about.html#natural-languages",
-    "href": "about.html#natural-languages",
-    "title": "About",
-    "section": "",
-    "text": "English, French, Italian, Spanish, Hungarian (basic)."
-  },
-  {
-    "objectID": "about.html#data-analysis",
-    "href": "about.html#data-analysis",
-    "title": "About",
-    "section": "",
-    "text": "Matching Methods (including Mahalanobis matching and Kernel matching)\nPropensity Score Weighting (PSW)\nSynthetic Control Method (SCM)\nCluster Analysis\nNatural Language Processing (NLP)\nBERT Modelling\nQuantitative Sentiment Analysis\nData Scraping Techniques\nImputation Techniques (K-means and regression analysis inputting)\nRandomized Control Trials (RCTs)"
+    "text": "Other Publications\n2026, How Terror Attacks Pushed French Politics Closer to the Far Right, AuthLIB Blog\n2024, Populists in Europe: A Political Group with Its Distinct Policy Preferences?, AuthLIB Blog\n2022, A Small Country Trying To Go Big, A Big Union Trying Not To Go Small, Australian Institute of International Affairs\n2021, Chinese vaccine diplomacy in Latin America could change the international order, ECPR The Loop\n2020, Book Review: The Glass Half-Empty: Debunking the Myth of Progress in the Twenty-First Century by Rodrigo Aguilera, LSE Review of Books"
   }
 ]
