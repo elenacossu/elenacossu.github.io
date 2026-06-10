@@ -23,7 +23,7 @@ about:
 
 
 ::: {#hero-heading}
-Welcome! I am a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.
+Welcome! I am a data scientist at the European Central Bank and a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.
 
 My current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.
 
