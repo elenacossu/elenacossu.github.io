@@ -31,6 +31,8 @@ I am a data scientist at the European Central Bank and a Max Weber Fellow at the
 My current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.
 
 I am always open to discussing possible collaborations. You can reach me at: [elena.cossu@live.it](mailto:elena.cossu@live.it).
+
+The code for this website is [here](https://github.com/elenacossu/elenacossu.github.io).
 :::
 
 ```{=html}

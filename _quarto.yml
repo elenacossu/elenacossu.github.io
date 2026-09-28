@@ -16,7 +16,6 @@ website:
 
   page-footer:
     left: "&copy; Copyright 2026, Elena Cossu"
-    right: "This page is built with [Quarto](https://quarto.org/)."
 
   navbar:
     left:
