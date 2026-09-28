@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+description: "Peer-reviewed publications, book chapters, working papers, preprints and reports by Elena Cossu on populism, illiberalism, democratic backsliding and computational text analysis in European politics."
 editor: visual
 ---
 

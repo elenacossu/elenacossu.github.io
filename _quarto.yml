@@ -8,6 +8,10 @@ website:
   page-navigation: true
   title: "Elena Cossu"
   site-url: https://elenacossu.github.io
+  description: "Elena Cossu, PhD — Data Scientist at the European Central Bank and Max Weber Fellow at the European University Institute. Political scientist researching democratic backsliding, populism and illiberalism in Europe using NLP and machine learning."
+  image: profile.jpg
+  open-graph: true
+  twitter-card: true
 
   page-footer:
     left: "&copy; Copyright 2026, Elena Cossu"
@@ -29,4 +33,5 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    canonical-url: true
 

@@ -1,6 +1,6 @@
 ---
 title: Curriculum vitae
-description: "CV"
+description: "Curriculum vitae of Elena Cossu, PhD — political scientist specialising in computational text analysis and causal inference, currently at the European Central Bank and the European University Institute."
 #date: "`r format(Sys.time(), '%B, %Y')`"
 #published-title: CV last updated
 engine: knitr 
