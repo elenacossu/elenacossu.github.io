@@ -19,6 +19,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/elle_cossu
+    - icon: mortarboard-fill
+      text: ORCID
+      href: https://orcid.org/0000-0002-0799-4349
 
 ---
 
@@ -64,7 +67,8 @@ I'm always open to explore possible collaborations — let's connect! You can re
     "https://github.com/elenacossu",
     "https://scholar.google.com/citations?user=MTOa6DoAAAAJ",
     "https://www.linkedin.com/in/elenacossu/",
-    "https://twitter.com/elle_cossu"
+    "https://twitter.com/elle_cossu",
+    "https://orcid.org/0000-0002-0799-4349"
   ]
 }
 </script>
