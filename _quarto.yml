@@ -10,7 +10,7 @@ website:
   site-url: https://elenacossu.github.io
 
   page-footer:
-    left: "&copy; Copyright 2024, Elena Cossu"
+    left: "&copy; Copyright 2026, Elena Cossu"
     right: "This page is built with [Quarto](https://quarto.org/)."
 
   navbar:

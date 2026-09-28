@@ -23,9 +23,9 @@ about:
 
 
 ::: {#hero-heading}
-Welcome! I am a data scientist at the European Central Bank and a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.
+Welcome! I am a data scientist at the European Central Bank, using computational social science to study democratic backsliding in Europe. I was previously a Max Weber Fellow at the European University Institute and a postdoctoral researcher at Sciences Po Paris.
 
-My current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.
+My current research applies machine learning and large language models to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.
 
 I'm always open to explore possible collaborations — let's connect! You can reach me at: [elena.cossu@live.it](mailto:elena.cossu@live.it).
 :::

@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Elena Cossu, PhD",
     "section": "",
-    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n\n  \n  \nWelcome! I am a data scientist at the European Central Bank and a Max Weber Fellow at the EUI, using computational social science to study democratic backsliding in Europe.\nMy current research applies machine learning to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.\nI’m always open to explore possible collaborations — let’s connect! You can reach me at: elena.cossu@live.it."
+    "text": "Github\n  \n  \n    \n     Scholar\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Twitter\n  \n\n  \n  \nWelcome! I am a data scientist at the European Central Bank, using computational social science to study democratic backsliding in Europe. I was previously a Max Weber Fellow at the European University Institute and a postdoctoral researcher at Sciences Po Paris.\nMy current research applies machine learning and large language models to classify illiberalism in political texts. Previously, I used experiments and quasi-experiments to evaluate the impact of policies across Europe.\nI’m always open to explore possible collaborations — let’s connect! You can reach me at: elena.cossu@live.it."
   },
   {
     "objectID": "privacy_notice.html",
@@ -91,11 +91,32 @@
     "text": "Cossu, Elena, and Caterina Froio. 2025. ‘How Terror Attacks Shape Political Agendas on Multiculturalism in France’. Politics and Governance 13(0). doi:10.17645/pag.9743.\nCossu, Elena. 2024. ‘Application of Natural Language Processing to the Electoral Manifestos of Parties Characterised by Populist Rhetoric in Central and Eastern Europe’. Intersections. East European Journal of Society and Politics 10(4): 6–33. doi:10.17356/ieejsp.v10i4.1230.\nCossu, E. (2023a). Clustering and Analysing Relevant Policy Dimensions of Populist, Left-Wing, Centrist, and Right-Wing Parties across Europe. Central European Journal of Public Policy, 17(1), 41–54. https://doi.org/10.2478/cejpp-2023-0004 (GitHub Code)\nCossu, E. (2023b). The Economic Effect Of Populist Rhetoric In Hungary. Online Journal of Modelling the New Europe, 41, 105–138. https://doi.org/10.24193/OJMNE.2023.41.05\nCossu, E. (2021). Understanding Contemporary Populism Through the Latin American Experience. AARMS – Academic and Applied Research in Military and Public Management Science, 20(3), Article 3. https://doi.org/10.32565/aarms.2021.3.4\nBorges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz-gazdaság, 14(3), Article 3. https://doi.org/10.14267/RETP2019.03.25"
   },
   {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nCossu, E. (2025). ‘The Effect of Policies of Populist Parties in Power on Economic Performance: The Case of Hungary’. In J. Kubik & R. C. M. Mole (Eds.), The Anatomy of Right-Wing Populism: Dealing with Transformational Fatigue in Central and Eastern Europe (Chapter 6). London: UCL Press. https://uclpress.co.uk/book/the-anatomy-of-right-wing-populism/"
+  },
+  {
+    "objectID": "publications.html#preprints-working-papers",
+    "href": "publications.html#preprints-working-papers",
+    "title": "Publications",
+    "section": "Preprints & Working Papers",
+    "text": "Preprints & Working Papers\nBinelli, C., & Cossu, E. 2026. ‘Women and AI: A Large-Scale, Validated Mapping of Women’s Under-Represented and Under-Recognized Contributions to AI Research’. SocArXiv preprint. doi:10.31235/osf.io/cxmk6_v1.\nCossu, E. 2026. ‘A Framework for Labelling Complex Political Concepts Using Open-Weight LLMs: Evidence from Illiberalism in European Party Communication’. Working paper."
+  },
+  {
+    "objectID": "publications.html#under-review",
+    "href": "publications.html#under-review",
+    "title": "Publications",
+    "section": "Under Review",
+    "text": "Under Review\nRovny, J., Cossu, E., & Sattelmayer, L. ‘Diversity and Democracy: Muslim Minorities and the Support for Democracy in Western Europe’. Submitted to World Politics."
+  },
+  {
     "objectID": "publications.html#in-progress",
     "href": "publications.html#in-progress",
     "title": "Publications",
     "section": "In Progress",
-    "text": "In Progress\nRovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy\nCossu, E. Mapping the Content of Illiberal Speech in Europe\nFroio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication — Privacy Notice"
+    "text": "In Progress\nCossu, E., Froio, C., & Völker, T. ‘Blurring the Boundaries: Conceptualizing and Measuring Illiberal and Far-Right Party Communication in Europe’ — Privacy Notice"
   },
   {
     "objectID": "publications.html#reports",

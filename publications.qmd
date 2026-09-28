@@ -17,13 +17,23 @@ Cossu, E. (2021). Understanding Contemporary Populism Through the Latin American
 
 Borges Aguiar G. M., & Cossu E. (2019). The Gravity Model for Trade Theory. Köz-gazdaság, 14(3), Article 3. https://doi.org/10.14267/RETP2019.03.25
 
+## Book Chapters
+
+Cossu, E. (2025). 'The Effect of Policies of Populist Parties in Power on Economic Performance: The Case of Hungary'. In J. Kubik & R. C. M. Mole (Eds.), *The Anatomy of Right-Wing Populism: Dealing with Transformational Fatigue in Central and Eastern Europe* (Chapter 6). London: UCL Press. https://uclpress.co.uk/book/the-anatomy-of-right-wing-populism/
+
+## Preprints & Working Papers
+
+Binelli, C., & Cossu, E. 2026. 'Women and AI: A Large-Scale, Validated Mapping of Women's Under-Represented and Under-Recognized Contributions to AI Research'. SocArXiv preprint. doi:[10.31235/osf.io/cxmk6_v1](https://osf.io/preprints/socarxiv/cxmk6_v1).
+
+Cossu, E. 2026. 'A Framework for Labelling Complex Political Concepts Using Open-Weight LLMs: Evidence from Illiberalism in European Party Communication'. Working paper.
+
+## Under Review
+
+Rovny, J., Cossu, E., & Sattelmayer, L. 'Diversity and Democracy: Muslim Minorities and the Support for Democracy in Western Europe'. Submitted to *World Politics*.
+
 ## In Progress
 
-Rovny, J., Cossu, E., & Sattelmayer, L. The Social Bases of Democracy
-
-Cossu, E. Mapping the Content of Illiberal Speech in Europe
-
-Froio, C., Wolker, T., Cossu, E., Blurring Boundaries? Conceptualizing and Measuring Illiberal and Far-right Views in Party Communication — [Privacy Notice](privacy_notice.qmd)
+Cossu, E., Froio, C., & Völker, T. 'Blurring the Boundaries: Conceptualizing and Measuring Illiberal and Far-Right Party Communication in Europe' — [Privacy Notice](privacy_notice.qmd)
 
 
 
