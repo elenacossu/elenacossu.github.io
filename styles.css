@@ -1,1 +1,7 @@
 /* css styles */
+
+/* The description: front-matter field is kept for SEO meta tags only;
+   hide its visible rendering in the title block on every page. */
+#title-block-header .description {
+    display: none;
+}
